@@ -4,9 +4,13 @@ node_js:
 
 cache: yarn
 
+before_install:
+  - sudo apt-get install lftp
+
 script:
   - yarn docs:build
 
 deploy:
+  skip_cleanup: true
   provider: script
   script: bash deploy.sh
