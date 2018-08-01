@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - "lts"
+
+cache: yarn
+
+script:
+  - yarn docs:build
+
+deploy:
+  provider: script
+  script: bash deploy.sh
