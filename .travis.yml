@@ -4,9 +4,6 @@ node_js:
 
 cache: yarn
 
-before_install:
-  - sudo apt-get install lftp
-
 script:
   - yarn docs:build
 

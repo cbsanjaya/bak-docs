@@ -1,14 +1,10 @@
-#!/usr/bin/env bash
+#!/bin/sh
 set -e
 
 LOCALPATH='./docs/.vuepress/dist'
 REMOTEPATH='/docs'
 
-lftp -f "
-set dns:order "inet"
-set ftp:ssl-allow no
-open ftp://$FTP_HOST
-user $FTP_USER $FTP_PASSWORD
-mirror --continue --reverse --delete $LOCALPATH $REMOTEPATH
-bye
-"
+sudo apt-get install -y lftp
+
+# deployment via ftp upload. Using FTPS for that
+lftp -c "set ftps:initial-prot ''; set ftp:ssl-force true; set ftp:ssl-protect-data true; open ftp://$FTP_USER:$FTP_PASS@$FTP_HOST$REMOTEPATH:21; mirror -eRv $LOCALPATH .; quit;"
