@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.jpg
 actionText: Mulai →
-actionLink: /umum/
+actionLink: /tutorial/
 footer: Universitas Yudharta Pasuruan | Copyright © 2018
 ---
 
