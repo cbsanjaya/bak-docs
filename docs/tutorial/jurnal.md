@@ -19,7 +19,7 @@ Tekan Tombol Buat Jurnal pada Daftar Jurnal, untuk membuat jurnal baru. untuk me
 3. Pilih akun yang akan dijurnal.
 4. isikan nilai untuk masing-masing akun.
 5. Pastikan Nilai Akun Balance.
-6. Simpan Akun.
+6. Simpan Transaksi.
 
 ## Edit Jurnal
 

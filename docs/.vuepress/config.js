@@ -22,9 +22,9 @@ module.exports = {
           children: [
             '',
             'jurnal',
-            'pendapatan',
             'tagihan',
             'pembayaran',
+            'pendapatan',
             'pengeluaran',
             'laporan',
             'asset',
