@@ -1,8 +1,10 @@
 # Pembayaran
 
+Fitur ini digunakan untuk mencatat semua pembayaran yang dilakukan oleh Mahasiswa.
+
 ## Daftar Transaksi Pembayaran
 
-Pada menu pembayaran akan ditampilkan daftar transaksi pembayaran yang telah tersimpan didalam database.
+Pada Menu [Pembayaran](https://bak.yudharta.ac.id/payments) akan ditampilkan daftar transaksi pembayaran yang telah tersimpan didalam database.
 
 ![alt text](./img/daftar_pembayaran.png)
 
@@ -22,7 +24,7 @@ button hapus data digunakan untuk menghapus transaksi pembayaran beserta jurnaln
 
 ## Buat Transaksi Pembayaran
 
-Pada daftar transaksi pembayaran klik tombol ![alt text](./img/button_pembayaran_baru.png) maka halaman akan dialihkan ke form pembayaran.
+Pada Daftar Transaksi Pembayaran klik tombol [Buat Pembayaran](https://bak.yudharta.ac.id/payments/new), maka halaman akan dialihkan ke form pembayaran.
 
 untuk melakukan transaksi pembayaran lakukan langkah sebagai berikut:
 
