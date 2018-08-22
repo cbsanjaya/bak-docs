@@ -1,8 +1,14 @@
 # Laporan
 
-Menampilkan seluruh Laporan yang ada dalam aplikasi BAK, laporan digolongkan berdasarkan Hak Akses dari User, jadi dari daftar yang tertera di bawah ini, kemungkinan ada laporan yang tidak bisa dilihat dan di akses oleh user.
+Menampilkan seluruh Laporan yang ada dalam aplikasi BAK. Pada Setiap Laporan Ada Filter untuk Memudahkan user Menampilkan Laporan yang dibutuhkan. Laporan digolongkan berdasarkan Hak Akses dari User.
 
-Pada Setiap Laporan Ada Filter untuk Memudahkan user Menampilkan Laporan yang dibutuhkan, dan untuk mencetak laporan tekan `Ctrl + p` pada halaman laporan.
+::: warning
+Dari daftar Laporan yang tertera pada dokumen ini, Ada laporan yang tidak bisa dilihat oleh user karena batasan Hak Akses.
+:::
+
+::: tip
+Untuk mencetak laporan tekan `Ctrl + p` pada halaman laporan.
+:::
 
 ## Laporan Akuntansi
 
