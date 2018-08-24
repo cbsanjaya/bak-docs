@@ -32,4 +32,3 @@ Untuk Melihat Jurnal dari Pengeluaran pada kolom aksi tekan tombol Lihat Jurnal.
 ## History Pengeluaran
 
 Setiap Item Pada Daftar Pengeluaran ada riwayatnya. tekan aksi Riwayat Pengeluaran untuk mengetahui Riwayat Kapan dan oleh siapa Pengeluaran dibuat, di edit maupun dihapus.
-

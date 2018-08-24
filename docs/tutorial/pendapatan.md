@@ -36,4 +36,3 @@ Untuk Melihat Jurnal dari Pendapatan pada kolom aksi tekan tombol Lihat Jurnal.
 ## History Pendapatan
 
 Setiap Item Pada Daftar Pendapatan ada riwayatnya. tekan aksi Riwayat Pendapatan untuk mengetahui Riwayat Kapan dan oleh siapa Pendapatan dibuat, di edit maupun dihapus.
-
